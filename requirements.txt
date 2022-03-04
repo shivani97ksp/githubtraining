@@ -2,3 +2,5 @@ This is chat application.
 Emoji
 Type option
 vibrant
+dark mode
+video call
